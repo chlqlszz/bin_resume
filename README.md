@@ -1,7 +1,7 @@
 # 이력서
 
 ## 소개
-![프로필이미지] <img src="https://user-images.githubusercontent.com/101543918/190485140-181f39c7-8bff-4bf1-881e-a149a637769b.png" width="100" />
+<img src="https://user-images.githubusercontent.com/101543918/190485140-181f39c7-8bff-4bf1-881e-a149a637769b.png" width="100" /> <br/> ![프로필이미지] 
 - 이름: 최빈
 - 군필여부: 병장으로 만기 복무
 - 취미: 책 읽기, 여행, 캠핑
