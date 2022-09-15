@@ -66,13 +66,13 @@
 ## 프로젝트 이력
 
 
-<img src='./https://user-images.githubusercontent.com/101543918/190479156-70abaa4d-08e9-434c-8d48-a544a244518c.PNG' width="80" />
+<img src="https://user-images.githubusercontent.com/101543918/190479156-70abaa4d-08e9-434c-8d48-a544a244518c.PNG" width="80" />
 
 ### 아프리카 지하수 수급을 위한 스털링 엔진(2018)
 - 소개: 아프리카의 뜨거운 지열을 이용하여 열효율 발전량이 가장 높은 스털링 엔진을 사용해 전기를 생산하고 지하수를 끌어올리는 펌프를 제작
 - 기간 : 2018년 1학기
 
-<img src='./https://user-images.githubusercontent.com/101543918/190474632-02d0bcba-f447-4c14-8d25-1401b2cdaa36.jpg' width="80" />
+<img src="https://user-images.githubusercontent.com/101543918/190474632-02d0bcba-f447-4c14-8d25-1401b2cdaa36.jpg" width="80" />
 
 ### 배터리 잔량 측정기
 - 소개: AA배터리 잔량 표시
