@@ -30,28 +30,28 @@
 
 <img src="https://user-images.githubusercontent.com/101543918/190474632-02d0bcba-f447-4c14-8d25-1401b2cdaa36.jpg" width="100" />
 
-### 배터리 잔량 측정기
-- 소개: AA배터리 잔량 표시
+### 배터리 잔량 표시기
+- 소개: LM3914를 이용한 AA배터리 잔량 표시 및 내부 등가저항 계산 기능을 하는 표시기 제작
 - 기간: 2019년 1학기
 
 <img src="https://user-images.githubusercontent.com/101543918/190868423-4c789a4d-cfbc-463f-8e8d-733f08c68060.PNG" width="80" height="80"/>
 
 
 ### - 전압 및 전류 모니터링 가능한 배터리 측정기
-- 소개: 소형 배터리의 충전기를 설계하고 배터리 단자의 전압 및 전류를 모니터링할 수 있는 배터리 측정기 제작 
+- 소개: 소형 배터리의 충전기를 설계하고 배터리 단자의 전압 및 전류를 모니터링할 수 있는 배터리 충전기 제작 
 - 기간: 2022년
 
 <img src="https://user-images.githubusercontent.com/101543918/190474847-78015592-8c68-41ce-a7d4-36c83a626d5a.jpg" width="80" height="80"/>
 
 ### 데이터를 통한 주가 예측
-- 소개: machine learning을 통한 주가 예측
+- 소개: machine learning을 이용한 주가 예측 모델 설계
 - 기간: 2022년 1학기
 - 관련기술: machine learning
 
 <img src="https://user-images.githubusercontent.com/101543918/190475231-c47e61ff-b993-4031-983d-92f74eba35a0.jpg" width="80" height="80"/>
 
 ### 주파수 대역별 오디오 레벨 미터 설계
-- 소개: 주파수를 대역별로 나누며 증폭시키는 레벨 미터 설계
+- 소개: 입력된 음성 신호를 주파수 대역별로 분리한 후 증폭 가능한 레벨 미터 설계
 - 기간: 2022년 1학기
 
 ----
