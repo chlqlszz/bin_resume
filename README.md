@@ -5,7 +5,7 @@
 
 - 이름: 최빈
 - 군필 여부: 병장으로 만기 복무
-- 취미: 책 읽기, 여행, 캠핑
+- 취미: 독서 감상, 여행, 캠핑
 - Email: choibin0613@naver.com
 - GitHub: [github.com/chlqlszz](https://github.com/chlqlszz)
 
@@ -46,6 +46,9 @@
 ### 주파수 대역별 오디오 레벨 미터 설계
 - 소개: 주파수를 대역별로 나누며 증폭시키는 레벨 미터 설계
 - 기간: 2022년 1학기
+
+
+<img src="https://user-images.githubusercontent.com/101543918/190868423-4c789a4d-cfbc-463f-8e8d-733f08c68060.PNG" width="80" height="80"/>
 
 
 ### - 전압 및 전류 모니터링 가능한 배터리 측정기
