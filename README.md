@@ -28,7 +28,7 @@
 - 소개: 아프리카의 뜨거운 지열을 이용하여 열효율 발전량이 가장 높은 스털링 엔진을 사용해 전기를 생산하고 지하수를 끌어올리는 펌프를 제작
 - 기간 : 2018년 1학기
 
-<img src="https://user-images.githubusercontent.com/101543918/190474632-02d0bcba-f447-4c14-8d25-1401b2cdaa36.jpg" width="80" />
+<img src="https://user-images.githubusercontent.com/101543918/190474632-02d0bcba-f447-4c14-8d25-1401b2cdaa36.jpg" width="100" />
 
 ### 배터리 잔량 측정기
 - 소개: AA배터리 잔량 표시
