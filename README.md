@@ -59,3 +59,6 @@
 여기까지 읽어주셔서 감사합니다. <br/>
 부족한 부분이나 더 궁금하신 내용이 있다면 choibin0613@naver.com으로 연락주세요.<br/>
 감사합니다.
+
+## 미래에 채워야할 것
+![캡처1](https://user-images.githubusercontent.com/101543918/190877306-582f5d15-b667-4f7e-89f7-a7e3d1bfa63d.PNG)
